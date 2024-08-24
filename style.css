@@ -19,7 +19,7 @@ header .navbar {
 .logo {
   height: 90%;
   width: 113px;
-  background-image: url("/Images/Logo.png");
+  background-image: url("./images/Logo.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 158px;
@@ -62,7 +62,7 @@ header .navbar {
   margin: 0 0 0 5px;
 }
 .two-div-container .location-icon-div {
-  background-image: url("/Images/Location.png");
+  background-image: url("./images/Location.png");
   background-position: center;
   background-size: cover;
   height: 20px;
@@ -120,7 +120,7 @@ header .navbar {
 .search-icon {
   height: 40px;
   width: 6.5%;
-  background-image: url("/Images/Search.png");
+  background-image: url("./images/Search.png");
   background-repeat: no-repeat;
   background-position: center;
   background-color: rgb(255, 189, 90);
@@ -158,7 +158,7 @@ header .navbar {
 .flag {
   height: 40px;
   width: 30px;
-  background-image: url("/Images/united-states.png");
+  background-image: url("./images/united-states.png");
   background-repeat: no-repeat;
   background-size: 20px;
   background-position: center;
@@ -221,7 +221,7 @@ header .navbar {
 .cart-icon {
   height: 50px;
   width: 60%;
-  background-image: url("/Images/Cart.png");
+  background-image: url("./images/Cart.png");
   background-repeat: no-repeat;
   background-size: 40px;
   background-position: center;
@@ -248,7 +248,7 @@ header .navbar {
 .menu {
   height: 100%;
   width: 75px;
-  background-image: url("/Images/Menu.png");
+  background-image: url("./images/Menu.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 25px;
@@ -295,7 +295,7 @@ header .navbar {
 .hero-container {
   height: 1500px;
   width: 100%;
-  background-image: url("/Images/Hero-image.jpg");
+  background-image: url("./images/Hero-image.jpg");
   background-repeat: no-repeat;
   background-position: top;
   background-size: contain;
@@ -351,7 +351,7 @@ header .navbar {
   cursor: pointer;
 }
 .l1 {
-  background-image: url("/Images/Headset.png");
+  background-image: url("./images/Headset.png");
 }
 .titles {
   position: absolute;
@@ -359,51 +359,51 @@ header .navbar {
   top: 120px;
 }
 .r1 {
-  background-image: url("/Images/Keyboard.png");
+  background-image: url("./images/Keyboard.png");
 }
 
 .l2 {
-  background-image: url("/Images/Mouse.png");
+  background-image: url("./images/Mouse.png");
 }
 
 .r2 {
-  background-image: url("/Images/Chair.png");
+  background-image: url("./images/Chair.png");
 }
 .l3 {
-  background-image: url("/Images/rings.png");
+  background-image: url("./images/rings.png");
 }
 .r3 {
-  background-image: url("/Images/jacket.png");
+  background-image: url("./images/jacket.png");
 }
 .l4 {
-  background-image: url("/Images/nails.png");
+  background-image: url("./images/nails.png");
 }
 .r4 {
-  background-image: url("/Images/watch.png");
+  background-image: url("./images/watch.png");
 }
 .l5 {
-  background-image: url("/Images/shampoo.png");
+  background-image: url("./images/shampoo.png");
 }
 .r5 {
-  background-image: url("/Images/keratin.png");
+  background-image: url("./images/keratin.png");
 }
 .l6 {
-  background-image: url("/Images/dryer.png");
+  background-image: url("./images/dryer.png");
 }
 .r6 {
-  background-image: url("/Images/straightner.png");
+  background-image: url("./images/straightner.png");
 }
 .l7 {
-  background-image: url("/Images/hp.png");
+  background-image: url("./images/hp.png");
 }
 .r7 {
-  background-image: url("/Images/dell.png");
+  background-image: url("./images/dell.png");
 }
 .l8 {
-  background-image: url("/Images/lenovo.png");
+  background-image: url("./images/lenovo.png");
 }
 .r8 {
-  background-image: url("/Images/mac.png");
+  background-image: url("./images/mac.png");
 }
 a:link {
   font-size: 13px;
@@ -445,29 +445,29 @@ a:hover {
   background-position: center;
 }
 .b1 {
-  background-image: url("/Images/Book1.png");
+  background-image: url("./images/Book1.png");
 }
 .b2 {
-  background-image: url("/Images/Book2.png");
+  background-image: url("./images/Book2.png");
 }
 .b3 {
-  background-image: url("/Images/book3.png");
+  background-image: url("./images/book3.png");
 }
 .b4 {
-  background-image: url("/Images/book4.png");
+  background-image: url("./images/book4.png");
 }
 .b5 {
-  background-image: url("/Images/book5.png");
+  background-image: url("./images/book5.png");
   width: 18%;
 }
 .b6 {
-  background-image: url("/Images/book6.png");
+  background-image: url("./images/book6.png");
 }
 .b7 {
-  background-image: url("/Images/book7.png");
+  background-image: url("./images/book7.png");
 }
 .b8 {
-  background-image: url("/Images/book8.png");
+  background-image: url("./images/book8.png");
   background-size: contain;
 }
 
@@ -596,7 +596,7 @@ a:hover {
   margin: 10px 0 0 300px;
   height: 30px;
   width: 120px;
-  background-image: url("/Images/Logo.png");
+  background-image: url("./images/Logo.png");
   background-repeat: no-repeat;
   background-size: 130px;
   background-position: center;
@@ -652,7 +652,7 @@ a:hover {
 .state2 .flag2 {
   height: 100%;
   width: 20%;
-  background-image: url("/Images/united-states.png");
+  background-image: url("./images/united-states.png");
   background-repeat: no-repeat;
   background-size: 20px;
   background-position: center;
@@ -715,7 +715,7 @@ a:hover {
 .conditions-of-use .ad {
   height: 20px;
   width: 30px;
-  background-image: url("/Images/ad.png");
+  background-image: url("./images/ad.png");
   background-repeat: no-repeat;
   background-size: 40px;
   background-position: center;
