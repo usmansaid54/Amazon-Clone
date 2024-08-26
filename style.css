@@ -314,10 +314,11 @@ header .navbar {
 }
 .cards-section1 {
   display: flex;
-  gap: 15px;
+  gap: 25px;
   position: absolute;
   top: 230px;
-  left: 10px;
+  left: 30px;
+  width: 96%;
 }
 .card {
   height: 420px;
@@ -423,10 +424,10 @@ a:hover {
 }
 .section2 {
   height: 300px;
-  width: 98%;
+  width:96%;
   position: absolute;
   top: 680px;
-  left: 10px;
+  left: 30px;
   background-color: #ffffff;
   display: flex;
   gap: 20px;
